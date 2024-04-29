@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+这里是北鱼
+cs在读本科生
+一起努力😊
 <!--
 **is-northfish/is-northfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
